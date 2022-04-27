@@ -1,0 +1,16 @@
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.csproj.AssemblyReference.cache
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.csproj.ResolveComReference.cache
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.FormMain.resources
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.Properties.Resources.resources
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.csproj.GenerateResource.cache
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.csproj.CoreCompileInputs.cache
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\bin\Debug\UI_Foot_Trafic.exe.config
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\bin\Debug\UI_Foot_Trafic.exe
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\bin\Debug\UI_Foot_Trafic.pdb
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.exe
+C:\Users\Lymys\Desktop\Проект\UI_Foot_Trafic\obj\Debug\UI_Foot_Trafic.pdb
